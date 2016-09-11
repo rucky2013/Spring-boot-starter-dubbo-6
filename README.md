@@ -11,8 +11,7 @@ Spring-boot-starters是一组可以让你在构建应用时使用的方便的依
 
 ### 1. 构建和安装
 
-
-	git clone http://git.movit-tech.com/Andy.Li/Spring-boot-starter-dubbo.git
+	git clone https://github.com/leehoawki/Spring-boot-starter-dubbo.git
 	cd Spring-boot-starter-dubbo
 	mvn install
 
